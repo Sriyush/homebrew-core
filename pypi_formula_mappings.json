@@ -722,6 +722,9 @@
   "platformio": {
     "exclude_packages": ["certifi"]
   },
+  "plutoprint": {
+    "extra_packages": ["meson-python"]
+  },
   "pocsuite3": {
     "package_name": "pocsuite3[complete]",
     "exclude_packages": ["certifi", "cryptography"]
